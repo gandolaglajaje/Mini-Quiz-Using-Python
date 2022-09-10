@@ -10,4 +10,5 @@ Type your answers in respective questions
 
 ## Screenshots
 
-![Screen]
+![Screen](https://github.com/gandolaglajaje/Mini-Quiz-Using-Python/blob/main/Screenshots/Picture1.png)
+![Screen](https://github.com/gandolaglajaje/Mini-Quiz-Using-Python/blob/main/Screenshots/Picture2.png)
