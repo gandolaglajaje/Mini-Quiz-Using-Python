@@ -6,7 +6,7 @@ Guess the right answer and gain points.
 
 ## Mechanics
 
-Type your answers in respective questions
+Type your answers in respective questions.
 
 ## Screenshots
 
